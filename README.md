@@ -1,2 +1,3 @@
 # DigitImgClassification
-TensorFlow project utilizing keras dataset, matplotlib, numpy for image classification of handwritten digits. Up to 98.74% accuracy. 
+This is an Image Classification machine learning model, made with TensorFlow: utilizing the keras dataset, matplotlib(for data visualization), numpy for transforming N-D arrays into vectors. 
+Model performance up  to 98.74% accuracy. 
